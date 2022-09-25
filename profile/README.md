@@ -1,1 +1,1 @@
-# Hive: The Privacy Chat Platform
+# MATE: The Privacy Chat Platform
