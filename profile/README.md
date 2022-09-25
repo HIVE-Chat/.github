@@ -1,1 +1,1 @@
-# Hive
+# Hive: The Privacy Chat Platform
