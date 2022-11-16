@@ -14,7 +14,7 @@ For support, email info@matechat.eu.org or join our Discord community.
 ## Authors
 
 - [@WhaTeery1087 - Backend & Front-end](https://github.com/Whtery1087)
-- [@DevDenis297 - Backend & Front-end](https://github.com/DevDenis29)
+- [@DevDenis29 - Backend & Front-end](https://github.com/DevDenis29)
 - [@Lopastudio - Backend & Front-end](https://github.com/Lopastudio)
 
 > [**© MATE 2022**](http://matechat.eu.org/)
